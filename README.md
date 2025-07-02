@@ -1,0 +1,1 @@
+This repo contains my technical writeups. Some posts are currently hosted elsewhere ('ll be added here someday?)
