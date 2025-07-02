@@ -1,4 +1,7 @@
-# Swarm Intelligence for Ark Protocol Round Timing Optimization
+<center>
+    <h1>Swarm Intelligence for Ark Protocol Round Timing Optimization</h1>
+    By: Dikshant (<A href="https://github.com/pingu-73/">pingu-73</A>)
+</center>
 
 ## Abstract
 The Ark protocol introduces a novel Bitcoin scaling solution that enables instant, low cost tx while preserving self custody guarantees. However, the protocol's efficiency critically depends on when Ark operators initiate commitment tx rounds (a decision that involves complex trade-offs between UX, operational costs, and network efficiency). The [Ark Litepaper](https://docs.arklabs.xyz/ark.pdf) explicitly identifies round timing optimization as an open research problem, noting that **"it is a topic for future research to formalise and quantify these incentives."**
